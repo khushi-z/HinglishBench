@@ -1,0 +1,11 @@
+{"id":1,"hinglish":"Yaar ye phone bilkul kharab ho gaya hai","translation":"Dude this phone is completely broken","sentiment":"negative","intent":"complain"}
+{"id":2,"hinglish":"Food tha awesome bhai must try karo","translation":"The food was awesome brother you must try","sentiment":"positive","intent":"share_experience"}
+{"id":3,"hinglish":"Kya karu vacation ke liye budget kam hai","translation":"What should I do vacation budget is low","sentiment":"neutral","intent":"ask_help"}
+{"id":4,"hinglish":"Kal trip plan kar liya hai Manali ja rahe","translation":"Planned trip for tomorrow going to Manali","sentiment":"positive","intent":"share_plan"}
+{"id":5,"hinglish":"50 likes aa gaye post pe 2 hours me hi","translation":"Got 50 likes on post in just 2 hours","sentiment":"positive","intent":"share_achievement"}
+{"id":6,"hinglish":"Koi reply nahi aa raha 2 din se","translation":"No reply coming for 2 days","sentiment":"negative","intent":"express_frustration"}
+{"id":7,"hinglish":"Ghar wale bohot miss kar raha hu yaar","translation":"Missing family a lot dude","sentiment":"negative","intent":"express_emotion"}
+{"id":8,"hinglish":"Ye recipe kaise banaye koi batao","translation":"How to make this recipe someone tell","sentiment":"neutral","intent":"request_info"}
+{"id":9,"hinglish":"Apple ya Samsung konsa phone better hai","translation":"Which phone is better Apple or Samsung","sentiment":"neutral","intent":"ask_opinion"}
+{"id":10,"hinglish":"WhatsApp group me sab active hai aaj","translation":"Everyone active in WhatsApp group today","sentiment":"positive","intent":"describe"}
+ 
